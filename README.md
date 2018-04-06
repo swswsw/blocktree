@@ -11,4 +11,4 @@ the system exploits that, now we just have parallel truth going on.
 
 a simple implementation might do this:
 - give each reality a number
-- if someone got branched off the reality number 1 depth 30 reality number 2.  might be named 1-30'2.  other naming scheme may be possible.  
+- if someone got branched off the reality number 1 depth 30 reality number 2.  might be named 1-30'2.  other naming scheme may be possible.  - naming with more descriptive strings might also be allowed.  eg. master'test1'jason  
